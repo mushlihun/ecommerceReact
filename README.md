@@ -1,5 +1,5 @@
 
-# Ec-Commerce - Clone using ReactJs
+# E-Commerce - Clone using ReactJs
 
 **Project Link** - ***https://github.com/mushlihun/ecommerceReact.git***
 
